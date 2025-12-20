@@ -1,22 +1,21 @@
-<!-- BANNER -->
+<!-- ======================= BANNER ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Tushar%20Rohilla&fontSize=42&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:8b5cf6&height=220&section=header&text=Tushar%20Rohilla&fontSize=44&fontAlignY=35&desc=Building%20tools%20that%20explain%20themselves&descAlignY=55&animation=fadeIn" />
 </p>
 
-<!-- TYPING INTRO -->
+<!-- ======================= TYPING INTRO ======================= -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI-Assisted+Tool+Builder;I+dissect+bugs+for+fun;I+turn+confusion+into+clarity;AI+ML+Enthusiast" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI-Assisted+Tool+Builder;I+reverse-engineer+confusion;I+turn+bugs+into+lessons;I+build+for+understanding%2C+not+hype" 
   />
 </p>
 
 <p align="center">
-  <b>Developer who likes systems that explain themselves.</b><br/>
-  I build tools that help developers understand code, not fear it.
+  <b>I don’t just write code — I interrogate it until it confesses.</b><br/>
+  Developer focused on clarity, systems thinking, and explainable software.
 </p>
 
-<!-- SOCIAL -->
+<!-- ======================= SOCIAL ======================= -->
 <p align="center">
   <a href="https://linkedin.com/in/tusharrohilla03">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -31,52 +30,67 @@
 
 ---
 
-<!-- ABOUT ME -->
-<h2 align="center">🧠 How My Brain Works</h2>
+<!-- ======================= ABOUT ======================= -->
+<h2 align="center">🧠 How I Think</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284092-ea4d8e88-7a0a-4b41-bf7f-4a52d2a40b7f.gif" width="120" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284092-ea4d8e88-7a0a-4b41-bf7f-4a52d2a40b7f.gif" width="130" />
 </p>
 
 <ul>
-  <li>I care more about <b>reasoning</b> than frameworks</li>
-  <li>I like code that can survive being explained in interviews</li>
-  <li>I use AI as a <b>thinking amplifier</b>, not a crutch</li>
-  <li>If I can’t explain it simply, I don’t trust it</li>
+  <li>I value <b>reasoning over memorization</b></li>
+  <li>I like code that survives tough interview questions</li>
+  <li>I treat AI as a <b>co-thinker</b>, not a shortcut</li>
+  <li>If something feels magical, I slow down and dissect it</li>
 </ul>
 
----
-
-<!-- PROJECTS -->
-<h2 align="center">🚀 Things I’m Building</h2>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-ec6c1f3d-2b1c-4d7a-9efc-7bfa54c25b1d.gif" width="400"/>
-</p>
-
-- 🧪 **Bug Autopsy** — forensic debugging assistant that explains failures  
-- 🧠 **CodeSense** — AI that reads entire codebases and teaches them back  
-- ⏳ **Future Regret Simulator** — simulate long-term consequences of decisions  
-
-Currently diving deeper into **AWS, Docker, and system design**.
-
----
-
-<!-- TECH STACK -->
-<h2 align="center">🛠 Tech I Use (Not Just Collect)</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,tailwind,mongodb,git,linux,figma,sql,C,C++,docker,aws,azure&perline=7" />
+  <sub>Curiosity first. Confidence later.</sub>
 </p>
 
 ---
 
-<!-- LANGUAGE DISTRIBUTION -->
+<!-- ======================= PROJECTS ======================= -->
+<h2 align="center">🚀 Projects With Intent</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-ec6c1f3d-2b1c-4d7a-9efc-7bfa54c25b1d.gif" width="420"/>
+</p>
+
+🧪 **Bug Autopsy**  
+AI-powered debugging assistant that performs root-cause analysis on errors, stack traces, and code.
+
+🧠 **CodeSense**  
+Reads entire codebases and teaches them back — architecture, flow, and interview-level explanations.
+
+⏳ **Future Regret Simulator**  
+Explores long-term consequences of decisions using reasoning-driven simulations.
+
+<p align="center">
+  <sub>Currently exploring AWS, Docker, and system-level thinking.</sub>
+</p>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+<h2 align="center">🛠 Tools I Actually Use</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,tailwind,mongodb,git,linux,sql,docker,aws,github,express&perline=7" />
+</p>
+
+<p align="center">
+  <sub>No tool collecting. Only battle-tested skills.</sub>
+</p>
+
+---
+
+<!-- ======================= LANGUAGE FOCUS ======================= -->
 <h2 align="center">📊 Language Focus</h2>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeal02&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeal02&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
   />
 </p>
 
@@ -88,29 +102,29 @@ Currently diving deeper into **AWS, Docker, and system design**.
 
 ---
 
-<!-- STATS -->
-<h2 align="center">📈 Activity</h2>
+<!-- ======================= STATS ======================= -->
+<h2 align="center">📈 GitHub Pulse</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mikeal02&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mikeal02&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=mikeal02&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- ======================= PHILOSOPHY ======================= -->
 <h2 align="center">🧩 Philosophy</h2>
 
 <p align="center">
   <i>
-    “Anyone can write code that works.<br/>
-    Engineers write code that can be understood.”
+    “Code that works is common.<br/>
+    Code that explains itself is rare.”
   </i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:22d3ee&height=120&section=footer"/>
 </p>
