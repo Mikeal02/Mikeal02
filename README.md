@@ -76,7 +76,7 @@ Explores long-term consequences of decisions using reasoning-driven simulations.
 <h2 align="center">🛠 Tools I Actually Use</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,tailwind,mongodb,git,linux,sql,docker,aws,github,express&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,tailwind,mongodb,git,linux,flask,docker,aws,github,express&perline=7" />
 </p>
 
 <p align="center">
