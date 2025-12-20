@@ -1,30 +1,116 @@
-<h1 align="center">Hi 👋, I'm Tushar Rohilla</h1>
-<h3 align="center">A passionate Full Stack developer and AI/ML enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeal02&label=Profile%20views&color=0e75b6&style=flat" alt="mikeal02" /> </p>
-
-- 🔭 I’m currently working on [Codesense](https://codesense.netlify.app)
-
-- 🌱 I’m currently learning **AWS, Azure and Docker**
-
-- 👨‍💻 All of my projects are available at [https://beinvenidoaamigo.netlify.app](https://beinvenidoaamigo.netlify.app)
-
-- 💬 Ask me about **react, typescript and nodejs**
-
-- 📫 How to reach me **rohilla.tushar003@gmail.com**
-
-- ⚡ Fun fact **I think I know I have ADHD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tushar rohilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar rohilla" height="30" width="40" /></a>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Tushar%20Rohilla&fontSize=42&fontAlignY=35&animation=twinkling" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- TYPING INTRO -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI-Assisted+Tool+Builder;I+dissect+bugs+for+fun;I+turn+confusion+into+clarity" 
+    alt="Typing SVG" 
+  />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeal02&show_icons=true&locale=en&layout=compact" alt="mikeal02" /></p>
+<p align="center">
+  <b>Developer who likes systems that explain themselves.</b><br/>
+  I build tools that help developers understand code, not fear it.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeal02&show_icons=true&locale=en" alt="mikeal02" /></p>
+<!-- SOCIAL -->
+<p align="center">
+  <a href="https://linkedin.com/in/tushar rohilla">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rohilla.tushar003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://beinvenidoaamigo.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeal02&" alt="mikeal02" /></p>
+---
+
+<!-- ABOUT ME -->
+<h2 align="center">🧠 How My Brain Works</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284092-ea4d8e88-7a0a-4b41-bf7f-4a52d2a40b7f.gif" width="120" />
+</p>
+
+<ul>
+  <li>I care more about <b>reasoning</b> than frameworks</li>
+  <li>I like code that can survive being explained in interviews</li>
+  <li>I use AI as a <b>thinking amplifier</b>, not a crutch</li>
+  <li>If I can’t explain it simply, I don’t trust it</li>
+</ul>
+
+---
+
+<!-- PROJECTS -->
+<h2 align="center">🚀 Things I’m Building</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-ec6c1f3d-2b1c-4d7a-9efc-7bfa54c25b1d.gif" width="400"/>
+</p>
+
+- 🧪 **Bug Autopsy** — forensic debugging assistant that explains failures  
+- 🧠 **CodeSense** — AI that reads entire codebases and teaches them back  
+- ⏳ **Future Regret Simulator** — simulate long-term consequences of decisions  
+
+Currently diving deeper into **AWS, Docker, and system design**.
+
+---
+
+<!-- TECH STACK -->
+<h2 align="center">🛠 Tech I Use (Not Just Collect)</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,tailwind,mongodb,git,linux,figma&perline=6" />
+</p>
+
+---
+
+<!-- LANGUAGE DISTRIBUTION -->
+<h2 align="center">📊 Language Focus</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeal02&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" 
+  />
+</p>
+
+<p align="center">
+  <sub>
+    React • TypeScript • CSS • HTML • Python
+  </sub>
+</p>
+
+---
+
+<!-- STATS -->
+<h2 align="center">📈 Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeal02&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mikeal02&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<h2 align="center">🧩 Philosophy</h2>
+
+<p align="center">
+  <i>
+    “Anyone can write code that works.<br/>
+    Engineers write code that can be understood.”
+  </i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+</p>
