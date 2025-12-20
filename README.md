@@ -6,7 +6,7 @@
 <!-- TYPING INTRO -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI-Assisted+Tool+Builder;I+dissect+bugs+for+fun;I+turn+confusion+into+clarity" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI-Assisted+Tool+Builder;I+dissect+bugs+for+fun;I+turn+confusion+into+clarity;AI+ML+Enthusiast" 
     alt="Typing SVG" 
   />
 </p>
@@ -18,7 +18,7 @@
 
 <!-- SOCIAL -->
 <p align="center">
-  <a href="https://linkedin.com/in/tushar rohilla">
+  <a href="https://linkedin.com/in/tusharrohilla03">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:rohilla.tushar003@gmail.com">
@@ -66,7 +66,7 @@ Currently diving deeper into **AWS, Docker, and system design**.
 <h2 align="center">🛠 Tech I Use (Not Just Collect)</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,tailwind,mongodb,git,linux,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,nodejs,tailwind,mongodb,git,linux,figma,sql,C,C++,docker,aws,azure&perline=7" />
 </p>
 
 ---
