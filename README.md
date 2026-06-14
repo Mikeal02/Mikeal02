@@ -57,14 +57,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750147-ec6c1f3d-2b1c-4d7a-9efc-7bfa54c25b1d.gif" width="420"/>
 </p>
 
-🧪 **Bug Autopsy**  
-AI-powered debugging assistant that performs root-cause analysis on errors, stack traces, and code.
+🔥 **Roast My Git**  
+AI-powered GitHub profile analyzer that transforms coding habits into hilarious personality roasts.
 
 🧠 **CodeSense**  
 Reads entire codebases and teaches them back — architecture, flow, and interview-level explanations.
 
-⏳ **Future Regret Simulator**  
-Explores long-term consequences of decisions using reasoning-driven simulations.
+🎬 **Seatslotr**  
+Movie discovery and ticket-booking platform powered by TMDB.
+
 
 <p align="center">
   <sub>Currently exploring AWS, Docker, and system-level thinking.</sub>
