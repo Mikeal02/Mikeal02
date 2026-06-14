@@ -63,7 +63,7 @@ AI-powered GitHub profile analyzer that transforms coding habits into hilarious 
 🧠 **CodeSense**  
 Reads entire codebases and teaches them back — architecture, flow, and interview-level explanations.
 
-🎬 **Seatslotr**  
+🎬 **Cinebook**  
 Movie discovery and ticket-booking platform powered by TMDB.
 
 
